@@ -23,3 +23,5 @@ Implement a Benford's Law to catch these small fraudulent transactions without p
 
 ## Insights
 see insights in Report(Dashboard)
+
+Thank You!!
