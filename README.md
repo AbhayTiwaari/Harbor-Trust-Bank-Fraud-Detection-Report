@@ -1,4 +1,4 @@
-# Harbor-Trust-Bank-Fraud-Detection-Report
+# Harbor_Trust_Bank_Fraud_Detection_Report
 
 ## Business Problem: Improving Financial Security with Fraud Detection**
 
